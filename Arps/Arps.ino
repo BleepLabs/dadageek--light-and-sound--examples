@@ -3,8 +3,8 @@
  
  todo: comments!
 
- This example had two arpegiators taht randomly climb major scales
- There are control of the delay, fiter, decay and arp rate
+ This example had two arpeggiators that randomly climb major scales
+ There are control of the delay, filter, decay, and arp rate
  
  
  */
